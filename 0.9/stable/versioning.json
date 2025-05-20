@@ -1,31 +1,98 @@
 {
-  "buildTime": "2025-05-19T23:40:49.742Z",
+  "buildTime": "2025-05-20T01:18:38.202Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.52",
     "types": "1.0.0-alpha.52"
   },
   "repository": {
-    "name": "Template Extensions (0.9)",
-    "description": "Paperback extensions designed as templates to help developers get started quickly. Maintained by Inkdex."
+    "name": "MangaBox Extensions (0.9)",
+    "description": "Paperback extensions for websites which use the generic MangaBox theme. Maintained by Inkdex."
   },
   "sources": [
     {
-      "name": "Content Template",
-      "description": "Template that shows the functionality of content providing extensions.",
-      "version": "1.0.0-alpha.3",
+      "name": "MangaBatCOM",
+      "description": "Extension that pulls content from mangabat.com.",
+      "version": "1.0.0-alpha.1",
       "icon": "icon.png",
-      "language": "en",
+      "language": "🇬🇧",
       "contentRating": "SAFE",
-      "capabilities": 101,
       "badges": [],
+      "capabilities": 117,
       "developers": [
         {
-          "name": "Celarye",
-          "website": "https://celarye.dev",
-          "github": "https://github.com/Celarye"
+          "name": "Netsky",
+          "github": "https://github.com/TheNetsky"
         }
       ],
-      "id": "ContentTemplate"
+      "id": "MangaBatCOM"
+    },
+    {
+      "name": "MangaKakalotGG",
+      "description": "Extension that pulls content from mangakakalot.gg.",
+      "version": "1.0.0-alpha.1",
+      "icon": "icon.png",
+      "language": "🇬🇧",
+      "contentRating": "SAFE",
+      "badges": [],
+      "capabilities": 117,
+      "developers": [
+        {
+          "name": "Netsky",
+          "github": "https://github.com/TheNetsky"
+        }
+      ],
+      "id": "MangaKakalotGG"
+    },
+    {
+      "name": "MangaNatoGG",
+      "description": "Extension that pulls content from manganato.gg.",
+      "version": "1.0.0-alpha.1",
+      "icon": "icon.png",
+      "language": "🇬🇧",
+      "contentRating": "SAFE",
+      "badges": [],
+      "capabilities": 117,
+      "developers": [
+        {
+          "name": "Netsky",
+          "github": "https://github.com/TheNetsky"
+        }
+      ],
+      "id": "MangaNatoGG"
+    },
+    {
+      "name": "NatoMangaCOM",
+      "description": "Extension that pulls content from natomanga.com.",
+      "version": "1.0.0-alpha.1",
+      "icon": "icon.png",
+      "language": "🇬🇧",
+      "contentRating": "SAFE",
+      "badges": [],
+      "capabilities": 117,
+      "developers": [
+        {
+          "name": "Netsky",
+          "github": "https://github.com/TheNetsky"
+        }
+      ],
+      "id": "NatoMangaCOM"
+    },
+    {
+      "name": "NeloMangaNET",
+      "description": "Extension that pulls content from nelomanga.net.",
+      "version": "1.0.0-alpha.1",
+      "icon": "icon.png",
+      "language": "🇬🇧",
+      "contentRating": "SAFE",
+      "badges": [],
+      "capabilities": 117,
+      "developers": [
+        {
+          "name": "Netsky",
+          "github": "https://github.com/TheNetsky"
+        }
+      ],
+      "id": "NeloMangaNET"
     }
   ]
 }
