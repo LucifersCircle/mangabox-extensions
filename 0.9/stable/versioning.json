@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-01-14T16:51:36.654Z",
+  "buildTime": "2026-01-14T17:28:17.881Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.57",
     "types": "1.0.0-alpha.57"
@@ -12,7 +12,7 @@
     {
       "name": "MangaBatCOM",
       "description": "Extension that pulls content from mangabat.com.",
-      "version": "1.0.0-alpha.2",
+      "version": "1.0.0-alpha.3",
       "icon": "icon.png",
       "language": "🇬🇧",
       "contentRating": "SAFE",
@@ -32,7 +32,7 @@
     {
       "name": "MangaKakalotGG",
       "description": "Extension that pulls content from mangakakalot.gg.",
-      "version": "1.0.0-alpha.2",
+      "version": "1.0.0-alpha.3",
       "icon": "icon.png",
       "language": "🇬🇧",
       "contentRating": "SAFE",
@@ -52,7 +52,7 @@
     {
       "name": "MangaNatoGG",
       "description": "Extension that pulls content from manganato.gg.",
-      "version": "1.0.0-alpha.2",
+      "version": "1.0.0-alpha.3",
       "icon": "icon.png",
       "language": "🇬🇧",
       "contentRating": "SAFE",
@@ -72,7 +72,7 @@
     {
       "name": "NatoMangaCOM",
       "description": "Extension that pulls content from natomanga.com.",
-      "version": "1.0.0-alpha.2",
+      "version": "1.0.0-alpha.3",
       "icon": "icon.png",
       "language": "🇬🇧",
       "contentRating": "SAFE",
@@ -92,7 +92,7 @@
     {
       "name": "NeloMangaNET",
       "description": "Extension that pulls content from nelomanga.net.",
-      "version": "1.0.0-alpha.2",
+      "version": "1.0.0-alpha.3",
       "icon": "icon.png",
       "language": "🇬🇧",
       "contentRating": "SAFE",
